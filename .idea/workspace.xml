@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bb1a745-dbea-498d-bb71-61b4cff7eec4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Course.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Employee.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laptops.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConnectDB/ResultSetMetaDataDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConnectDB/UDPClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaCollection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/BTTG_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/BuildThreadProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/BuildThreadProject/MyBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/BuildThreadProject/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/BuildThreadProject/WitDrawThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/DemoJavaAdvance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/MultiClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/MultiThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/PriorityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/Random/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/Random/SharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/Random/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/Random/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/Random/Thread3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/SynchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultiThread/TrafficLight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/DOMParseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/GfgXmlExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/LibraryParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/XMLFileUsingDOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/XMLParser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="291RcJY6zqj5kGlDQem38yFDaAw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/IdeaProjects/Java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="MultiThread.BuildThreadProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GfgXmlExtractor">
+    <configuration name="DOMParseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XML.DOMParseExample" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GfgXmlExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XML.GfgXmlExtractor" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaCollection.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-18.0.1.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="JavaCollection.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultSetMetaDataDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectDB.ResultSetMetaDataDemo" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConnectDB.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLFileUsingDOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XML.XMLFileUsingDOM" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XMLParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XML.XMLParser" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="XML.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaCollection.Main" />
+      <item itemvalue="Application.GfgXmlExtractor" />
+      <item itemvalue="Application.DOMParseExample" />
+      <item itemvalue="Application.XMLFileUsingDOM" />
+      <item itemvalue="Application.XMLParser" />
+      <item itemvalue="Application.ResultSetMetaDataDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GfgXmlExtractor" />
+        <item itemvalue="Application.DOMParseExample" />
+        <item itemvalue="Application.XMLFileUsingDOM" />
+        <item itemvalue="Application.XMLParser" />
+        <item itemvalue="Application.ResultSetMetaDataDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bb1a745-dbea-498d-bb71-61b4cff7eec4" name="Changes" comment="" />
+      <created>1652278685542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652278685542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

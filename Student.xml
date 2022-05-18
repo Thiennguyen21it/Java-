@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student indo="101">
+        <firstname>Thien</firstname>
+        <lastname>Aderson</lastname>
+        <score>90</score>
+    </student>
+    <student indo="102">
+        <firstname>Hoan</firstname>
+        <lastname>Aderson</lastname>
+        <score>90</score>
+    </student>
+    <student indo="103">
+        <firstname>Nguyen</firstname>
+        <lastname>Aderson</lastname>
+        <score>90</score>
+    </student>
+    <student indo="104">
+        <firstname>Trong</firstname>
+        <lastname>Aderson</lastname>
+        <score>92</score>
+    </student>
+</class>

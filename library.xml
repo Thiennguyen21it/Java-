@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lib>
+
+    <author-list>  
+
+<author>
+            <nickname>thiendeptrai</nickname>
+            <fullname>tHIEN NGUYEN </fullname>
+            <email>thiennh.21it@vku.udn.vn</email>
+            <birthday>13/12/2003</birthday>
+            <address>hue</address>
+        </author>
+<author>
+            <nickname>deptrai</nickname>
+            <fullname>thien </fullname>
+            <email>thien@vk.gmail.com</email>
+            <birthday>13</birthday>
+            <address>hue</address>
+        </author>
+    </author-list>
+
+    <book-list>    
+
+    </book-list>
+    
+</lib>
